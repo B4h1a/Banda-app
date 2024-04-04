@@ -9,6 +9,9 @@ export default function Home({navigation}) {
     title:"Highway To Hell",  
     group:"AC/DC",
     album_image:"https://vinils3.s3.amazonaws.com/wp-content/uploads/2019/02/21115421/ac-cd-highway-to-hell3.jpg",
+    album: "Highway To Hell",
+    year: 1970,
+    genre: "Heavy Metal",
   };
   return (
     <View style={styles.container}>
